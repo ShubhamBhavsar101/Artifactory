@@ -66,3 +66,15 @@ docker run --name artifactory \
 
 * Modern UI: [http://localhost:8082](http://localhost:8082)
 * Legacy UI: [http://localhost:8081](http://localhost:8081)
+
+Here’s your updated section with an emoji to add some clarity and friendliness:
+
+---
+
+## 🔐 First-Time User and Password
+
+* **Username** – `admin`
+* **Initial Password** – `password`
+* **Updated Password** – `Jfrog@123`
+
+
