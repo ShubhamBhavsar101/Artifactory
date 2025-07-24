@@ -57,7 +57,7 @@ docker run --name artifactory \
   -d \
   -p 8081:8081 \
   -p 8082:8082 \
-  releases-docker.jfrog.io/jfrog/artifactory-pro:7.104.10
+  releases-docker.jfrog.io/jfrog/artifactory-oss:7.104.10
 ```
 
 ---
